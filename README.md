@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # github.io
 <<<<<<< HEAD
 =======
@@ -14,3 +15,8 @@ expert-train
 *.txt text eol=lf
 *.sh text eol=lf
 >>>>>>> 614688b3e8005d2f9c5fa2f45d154bc292ad52e8
+=======
+# My GitHub Repository
+This is the README file for the GitHub repository.
+
+>>>>>>> 0193a8a7f0c4c37dbda52015b625e72766929873
