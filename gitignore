@@ -1,0 +1,4 @@
+# Ignore Windows system and application-specific directories
+AppData/Local/Application Data/
+AppData/Local/ElevatedDiagnostics/
+AppData/Local/History/
